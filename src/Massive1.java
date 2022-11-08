@@ -32,3 +32,6 @@ public class Massive1 {
 
     }
 }
+
+
+// by Igor
